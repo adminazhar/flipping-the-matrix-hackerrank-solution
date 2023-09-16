@@ -1,6 +1,7 @@
 # Flipping The Matrix HackerRank Solution
 
-Problem: https://www.hackerrank.com/challenges/flipping-the-matrix
+*Problem:* https://www.hackerrank.com/challenges/flipping-the-matrix
+
 
 Java, Python, Haskell, C++.
 
