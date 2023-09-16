@@ -1,5 +1,5 @@
 // # Problem: https://www.hackerrank.com/challenges/flipping-the-matrix
-// # Python 3
+// # Java 8
 import java.io.ByteArrayInputStream;
 import java.io.IOException;
 import java.io.InputStream;
