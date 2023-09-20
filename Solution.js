@@ -1,6 +1,8 @@
+// Problem: https://www.hackerrank.com/challenges/flipping-the-matrix
+// JavaScript
 function flippingMatrix(matrix) {
     
-  const n = matrix.length / 2; 
+    const n = matrix.length / 2; 
     let maxSum = 0;
     
     for (let i = 0; i < n; i++) {
